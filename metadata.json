@@ -1,0 +1,6 @@
+{
+  "name": "Employee Management System",
+  "description": "A production-grade SaaS Employee Management System dashboard featuring complete employee directories, department controls, settings, and profile views.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
